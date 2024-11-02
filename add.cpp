@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    itn a,b
+    int a,b
     cout<<a+b;
     return 0;
 }
